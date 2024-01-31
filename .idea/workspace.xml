@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day002-Password_Generator/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day001-Simple_Calculator/Docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day001-Simple_Calculator/Docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day002-Password_Generator/Docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day002-Password_Generator/Docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day002-Password_Generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day002-Password_Generator/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

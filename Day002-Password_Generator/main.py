@@ -10,6 +10,7 @@ import random
 
 ongoing = True
 
+
 def display_menu():
     print("😊😊 I know why you are there, so start :")
     print("how much characters may your password have ?\n")
