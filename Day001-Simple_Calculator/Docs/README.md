@@ -6,6 +6,15 @@ A simple calculator project in python which help everyone
 to make addition, substraction, division, multiplication, integer division,
 and power.
 
+## What do i used ?
+
+I used some topics, to help me accomplish it :
+
+- The while statement
+- The mathematics operators
+- The conditions Statement
+- The function declaration
+
 ## Installation :
 
 To install the program , you can use :

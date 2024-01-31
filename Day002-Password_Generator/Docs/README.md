@@ -5,6 +5,16 @@
 A Password Generator project in python which help everyone 
 to generate a password with a particular size which the user chooses.
 
+## What do i used ?
+
+I used some topics, to help me accomplish it :
+
+- The join function
+- The ascii_letters string 
+- The random module
+- The string slices
+- The function declaration
+
 ## Installation :
 
 To install the program , you can use :
