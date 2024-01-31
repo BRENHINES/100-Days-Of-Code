@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="" />
+    <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project Docs/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Docs/License" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
