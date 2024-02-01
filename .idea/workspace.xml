@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Angle_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Hit_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Lenght_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Money_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Time_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Volume_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Weight_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Display_Menu_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day002-Password_Generator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day002-Password_Generator/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,26 +34,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2biElzZiFOwvpVsw8yQqqEb8Pz4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/yopas/PycharmProjects/100_Days_Of_Code/Day002-Password_Generator/Docs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yopas/PycharmProjects/100_Days_Of_Code/Day003-Units_Converter/Docs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yopas\PycharmProjects\100_Days_Of_Code\Day003-Units_Converter\Docs" />
       <recent name="C:\Users\yopas\PycharmProjects\100_Days_Of_Code\Day002-Password_Generator\Docs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yopas\PycharmProjects\100_Days_Of_Code\Day003-Units_Converter\Converter_Functions" />
     </key>
   </component>
   <component name="RunManager">
