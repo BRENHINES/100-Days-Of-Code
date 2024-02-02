@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/UnitTests/Test_Angle_Converter_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Time_Converter_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Time_Converter_Function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -37,6 +39,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Test_Angle_Converter_Function.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Test_Angle_Converter_Function.MyTestCase.test_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_Angle_Converter_Function.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -49,10 +54,11 @@
       <recent name="C:\Users\yopas\PycharmProjects\100_Days_Of_Code\Day002-Password_Generator\Docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yopas\PycharmProjects\100_Days_Of_Code\Day003-Units_Converter" />
       <recent name="C:\Users\yopas\PycharmProjects\100_Days_Of_Code\Day003-Units_Converter\Converter_Functions" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in Test_Angle_Converter_Function.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_Of_Code" />
       <option name="ENV_FILES" value="" />
@@ -75,6 +81,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Test_Angle_Converter_Function.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_Of_Code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day003-Units_Converter/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Angle_Converter_Function.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Angle_Converter_Function.MyTestCase.test_something" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_Of_Code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day003-Units_Converter/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Angle_Converter_Function.MyTestCase.test_something&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Test_Angle_Converter_Function.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_Of_Code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day003-Units_Converter/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Day003-Units_Converter/UnitTests/Test_Angle_Converter_Function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in Test_Angle_Converter_Function.py" />
+        <item itemvalue="Python tests.Python tests for Test_Angle_Converter_Function.MyTestCase" />
+        <item itemvalue="Python tests.Python tests for Test_Angle_Converter_Function.MyTestCase.test_something" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

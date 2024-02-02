@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Converter-Functions
+Version: 1.0
+Summary: Un module pour convertir des unités de longueur
+Home-page: https://github.com/BRENHINES/Module-Converter_Functions.git
+Author: Brenhines
+Author-email: yopasereina1971@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: math
