@@ -1,5 +1,5 @@
 import unittest
-from . import Day003-Units_Converter.Converter_Functions
+from ..Converter_Functions import Angle_Converter_Function as af
 
 class MyTestCase(unittest.TestCase):
     def test_degree_to_rad(self):
