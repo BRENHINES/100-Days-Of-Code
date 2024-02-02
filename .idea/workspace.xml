@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/UnitTests/Test_Angle_Converter_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/UnitTests/Test_Angle_Converter_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day001-Simple_Calculator/Calculator_Function.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day001-Simple_Calculator/test_Calculator_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day001-Simple_Calculator/Calculator_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day001-Simple_Calculator/Calculator_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/UnitTests/Test_Angle_Converter_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/test_Converter_Functions/test_Angle_Converter_Function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
