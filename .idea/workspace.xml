@@ -7,10 +7,10 @@
     <list default="true" id="ac444e57-f921-460e-94d8-de19f1b402c6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/test_Converter_Functions/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/test_Converter_Functions/test_Angle_Converter_Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Angle_Converter_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Angle_Converter_Function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Hit_Converter_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Hit_Converter_Function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Lenght_Converter_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions/Lenght_Converter_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day003-Units_Converter/Interfaces/Money_Converter_Function.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/Day003-Units_Converter/Interfaces/Money_Converter_Function.pyi" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Day003-Units_Converter/Converter_Functions" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
