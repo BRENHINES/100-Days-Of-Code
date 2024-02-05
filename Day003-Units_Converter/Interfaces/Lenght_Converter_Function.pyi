@@ -20,17 +20,6 @@ def m_to_cm(length: float) -> float:
     ...
 
 
-def m_to_mm(length: float) -> float:
-    """m to mm
-
-    Helps us to convert any meter length into millimeter one corresponding.
-
-    :param length: the length which you want to convert.
-    :return: the millimeter corresponding
-    """
-    ...
-
-
 def ft_to_m(length: float) -> float:
     """ft to m
 
@@ -79,17 +68,6 @@ def cm_to_m(length: float) -> float:
     """cm to m
 
     Helps us to convert any centimeter length into meter one corresponding.
-
-    :param length: the length which you want to convert.
-    :return: the meter corresponding
-    """
-    ...
-
-
-def mm_to_m(length: float) -> float:
-    """mm to m
-
-    Helps us to convert any millimeter length into meter one corresponding.
 
     :param length: the length which you want to convert.
     :return: the meter corresponding
